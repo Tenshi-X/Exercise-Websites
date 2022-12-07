@@ -1,0 +1,59 @@
+.title{
+    text-align: center;
+    margin-top: 5cm;
+    font-family: poppins;
+    font-size: 125px;
+    color: white;
+    font-weight: bold;
+}
+.subtitle{
+    font-family: poppins;
+    color: white;
+    text-align: center;
+    font-size: small;
+}
+.button{
+    margin-top: 2cm;
+    font-family: poppins;
+    color: white;
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.action{
+    margin-top: 5cm;
+    font-size: xx-large;
+    color: white;
+}
+.form{
+    font-family: 'poppins', 'sans-serif';
+    padding: 0 28rem;
+    min-height: 100vh;
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+.formMargin{
+    width: 100%;
+    padding: 4rem;
+    border-radius: 0.5rem;
+}
+.result{
+    font-family: 'poppins', 'sans-serif';
+    font-size: xx-large;
+    padding: 4rem;
+    border-radius: 2rem;
+}
+.title{
+    font-family: 'poppins', 'sans-serif';
+    font-size: 40px;
+}
+.toolsMargin{
+    margin-top: 100px;
+}
+
+.btn-outline-warning:hover{
+    color: rgb(0, 0, 0) !important;
+}

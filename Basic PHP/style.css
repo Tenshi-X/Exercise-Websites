@@ -1,0 +1,32 @@
+.form{
+    font-family: 'poppins', 'sans-serif';
+    padding: 0 28rem;
+    min-height: 100vh;
+    display: flex;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+}
+.formMargin{
+    background-color: rgb(173, 1, 173);
+    width: 100%;
+    padding: 4rem;
+    border-radius: 0.5rem;
+}
+.result{
+    font-family: 'poppins', 'sans-serif';
+    font-size: xx-large;
+    padding: 4rem;
+    border-radius: 2rem;
+}
+.title{
+    font-family: 'poppins', 'sans-serif';
+    font-size: 40px;
+}
+
+.btn-outline-light:hover{
+    color: rgb(173, 1, 173) !important;
+}
+.btn-outline-dark:hover{
+    color: rgb(173, 1, 173) !important;
+}
